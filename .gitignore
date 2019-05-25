@@ -1,0 +1,6 @@
+/node_modules
+/dist
+
+# 개발환경 구축
+package-lock.json
+.idea
