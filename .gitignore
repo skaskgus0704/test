@@ -1,6 +1,7 @@
 /node_modules
 /dist
 
-# 개발환경 구축
-package-lock.json
+# 개발툴관련 설정파일
 .idea
+
+package-lock.json
